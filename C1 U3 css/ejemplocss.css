@@ -4,3 +4,33 @@ p{
     font-size: 22px;
     font-weight: bold;
 }
+
+h2{
+    color: red;
+    background-color: green;
+    text-align: center;
+}
+h1{
+    color: green;
+    background-color: black;
+    font-style: italic;
+    text-align: center;
+
+}
+.caja {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    box-shadow: 7px 23px 40px 0px rgba(0,0,0,0.75);
+    border-radius: 187px 187px 187px 187px;
+}   
+.destacado{
+color: greenyellow;
+font-style: italic;
+}
+#caja2{
+    width: 500px;
+    height: 200px;
+    background-color: black;
+    
+}
